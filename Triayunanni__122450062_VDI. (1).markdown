@@ -42,9 +42,8 @@ literatur terkait visualisasi data agar lebih efisien dan efektif
 3.  Analisis Mendalam : Artikel ini membahas detail teknis berbagai
     metode dan alat, seperti berbagai jenis bahasa visualisasi (tingkat
     rendah, tingkat tinggi), alat berbasis GUI, visualisasi data
-    perkiraan, dan visualisasi data progresif. Kedalaman ini berharga
-    bagi para peneliti dan praktisi yang tertarik untuk memahami nuansa
-    teknik visualisasi data.
+    perkiraan, dan visualisasi data progresif. hal ini berguna
+    bagi para peneliti dan praktisi yang tertarik untuk memahami teknik visualisasi data.
 
  # **Kekurangan**
 
@@ -54,11 +53,11 @@ literatur terkait visualisasi data agar lebih efisien dan efektif
     tepat atau memiliki fitur paling baik.
 
  # **Kesimpulan**
-secara umum, survei ini dapat menjadi sumber yang menarik untuk siapa
-saja yang tertarik dengan visualisasi data, khususnya bagi mereka yang
+secara umum, survei ini dapat menjadi sumber yang menarik untuk individu 
+yang tertarik dengan visualisasi data, khususnya bagi mereka yang
 ingin memahami berbagai teknik untuk membuat visualisasi menjadi lebih
 efisien dan efektif. Artikel ini diteliti dengan baik, terperinci, dan
 memberikan dasar yang kuat untuk melakukan eksplorasi dan penelitian
 lebih lanjut di bidang visualisasi data. Akan tetapi, artikel ini akan
 lebih baik lagi jika dilengkapi dengan pembahasan yang lebih praktis
-mengenai perkembangan di masa depan.
+dan mudah dipahami.
