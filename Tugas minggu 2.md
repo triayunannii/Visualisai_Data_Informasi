@@ -14,11 +14,13 @@ sumber: https://images.app.goo.gl/sCT8LnA9zmTB9PWE9
 Kriteria visualisali ini antara lain:
 1. From and Funcation (Baik)
    
-   Bentuk visual ini mudah dupahami, bahkan untuk pemula. Karena dalam setiap bentuk diagram batang yang panjangnya berbeda, dan ditambah penamaan setiap sumbu batang grafik yakni tingkat pendidikan setiap siswa di kecamatan sukasada ( SD,SMP,SMA, dan, SMK), dan jumlah banya siswa yang memiliki fungsi tujuan yang berbeda namun disampaikan dengan cara sederhana, sehingga dapat di bayangkan.
+   Bentuk visual ini mudah dupahami, bahkan untuk pemula. Karena dalam setiap bentuk diagram batang yang panjangnya berbeda, dan ditambah penamaan setiap sumbu batang grafik yakni tingkat pendidikan 
+  setiap siswa di kecamatan sukasada ( SD,SMP,SMA, dan, SMK), dan jumlah banya siswa yang memiliki fungsi tujuan yang berbeda namun disampaikan dengan cara sederhana, sehingga dapat di bayangkan.
    
 2. Cognitive Load Minimization (baik)
    
-   visual ini mempermudah kita dalam memahami tujuan dari visual ini sendiri, karena penamaan judul yang sesuai dengan tujuan dari apa yabg ingin disampaikan (jumlah siswa) dan tinkat pendidikan SD dan laki-laki yang paling banyak di Kecamatan Sukasada pada tahun 2012.
+   visual ini mempermudah kita dalam memahami tujuan dari visual ini sendiri, karena penamaan judul yang sesuai dengan tujuan dari apa yabg ingin disampaikan (jumlah siswa) dan tinkat pendidikan SD dan 
+   laki-laki yang paling banyak di Kecamatan Sukasada pada tahun 2012.
    
 3. Creating Accessibility Through Intuitive Design (Baik)
 
@@ -26,7 +28,8 @@ Kriteria visualisali ini antara lain:
 
 4. Justifying Design Choices (Baik)
 
-   Setiap bentuk atau elemen yang disajikan dalam visualisasi ini memiliki tujuan dan fungsi masing-masing,contohnya dalam visualisasi ini contoh penggunaan warna yakni merah untuk perempuan, biru untuk laki-laki.
+   Setiap bentuk atau elemen yang disajikan dalam visualisasi ini memiliki tujuan dan fungsi masing-masing,contohnya dalam visualisasi ini contoh penggunaan warna yakni merah untuk perempuan, biru 
+   untuk laki-laki.
 
 Dapat disimpulkan bahwa visual ini salah satu visual yang baik ( Good Visual).
 
@@ -52,7 +55,7 @@ Kriteria visualisali ini antara lain:
 4. Justifying Design Choices (Baik)
 
     Unsur-unsur desain seperti peta dan diagram lingkaran menyoroti dampak global dan perbedaan-perbedaan utama (misalnya, perbandingan harga). Infografis ini efektif bagi pengguna yang menginginkan 
-  gambaran singkat, sekaligus menawarkan wawasan terperinci melalui grafik dan data numerik untuk analisis yang lebih dalam.
+    gambaran singkat, sekaligus menawarkan wawasan terperinci melalui grafik dan data numerik untuk analisis yang lebih dalam.
 
 Dapat disimpulkan bahwa visual ini salah satu visual yang baik ( Good Visual).
 
@@ -93,7 +96,7 @@ Kriteria visualisali ini antara lain:
    
 3. Creating Accessibility Through Intuitive Design (Buruk)
 
- Desainnya tidak intuitif dan tidak mudah diakses. Meskipun ada keterangan, namun terlalu banyak data yang ditampilkan sekaligus, sehingga menyulitkan pembaca untuk mengikutinya.
+   Desainnya tidak intuitif dan tidak mudah diakses. Meskipun ada keterangan, namun terlalu banyak data yang ditampilkan sekaligus, sehingga menyulitkan pembaca untuk mengikutinya.
 
 4. Justifying Design Choices (Buruk)
 
