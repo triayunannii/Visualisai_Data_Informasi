@@ -1,5 +1,7 @@
 Tugas Minggu 2 Key Principles 
+
 Nama : Tria Yunanni
+
 NIM  : 122450062
 
 Mencari contoh visualisasi dan tentukan apakan termasuk Good visual atau Bad visual
